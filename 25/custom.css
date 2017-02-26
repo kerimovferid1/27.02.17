@@ -1,0 +1,97 @@
+.wrapper{
+	width:80%;
+	margin: 0 auto;
+/*	border: 1px solid white;
+*/}
+.row{
+	width: 100%;
+/*	height: 50px;
+*/	display: block;
+	/*background: blue;*/
+}
+.col1{
+	width: calc(((100% - 2%) / 12) * 1);
+	margin-right: 0.4%;
+}
+.col2{
+	width: calc(((100% - 2%) / 12) * 2);
+	margin-right: 0.4%;
+}
+.col3{
+	width:calc(((100% - 5%) / 12) * 3);
+
+/*margin-right: 1.25%;*/
+}
+.col4{
+	width: 33.3332%;
+}
+.col5{
+	width: 41.6665%;
+}
+.col6{
+	width:calc(((100% - 2%) / 12) * 6);
+	margin-right: 0.z;
+}
+.col7{
+	width: 58.3331%;
+}
+.col8{
+	width: 66.6664%;
+}
+.col9{
+	width: 74.9997%;
+}
+.col10{
+	width: 83.3333%;
+}
+.col11{
+	width: 91.6663%;
+}
+
+.col12{
+	width: 99.9996%;
+}
+/*img{
+	width: 100%;
+}*/
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
+.maincolor{
+	background: gray;
+}
+.secondaryColor{
+	background: lightgray;
+}
+      
+[class*="col"]{
+/*	height: 100px*/;
+	float: left;
+	box-sizing: border-box;
+	padding: 5px;
+/*	border: 1px solid blue;
+*/
+}
+.col31{
+	width:calc(((100% - 7%) / 12) * 3);
+
+margin-right: 1.7%;
+}
+[class*="col31"]{
+	height: 150px;
+	float: left;
+	box-sizing: border-box;
+	padding: 0px;
+/*	border: 1px solid blue;
+*/	background:white;
+
+}
+.col41{
+	width:calc(((100%  / 12) * 4);
+}

@@ -1,0 +1,341 @@
+#yuxari{
+	width: 100%;
+	height: 660px;
+	background: #F25222 url(../images/map.png) no-repeat;
+}
+
+#yuxari .wrapper {
+padding-top:20px; 
+}
+.header2 .header3 .header1{
+	   /* position: relative;
+    top: 15px;*/
+}
+.header2 span {
+	font-weight: bold;
+    font-size: 21.6px;
+    color: white;
+
+   
+}
+.header1 p{
+	text-align: right;
+	font-weight: bold;
+    color: white;
+    max-width: 71px;
+    text-transform: uppercase;
+    float:right;
+        font-size: 12px;
+
+    position: relative;
+    top: 3px;
+right: 10px;
+
+}
+.header1 span{
+	font-weight: bold;
+    color: white;
+    max-width: 30px;
+    text-transform: uppercase;
+
+  
+
+	float: right;
+	font-size: 30px;
+
+}
+.header3 p{
+	text-align: right;
+	font-weight: bold;
+    color: white;
+    max-width: 121px;
+    text-transform: uppercase;
+    float:right;
+        font-size: 12px;
+
+    position: relative;
+    top: 3px;
+right: 10px;
+
+
+}
+.header3 span{
+	font-weight: bold;
+    color: white;
+    max-width: 30px;
+    text-transform: uppercase;
+
+
+	float: right;
+	font-size: 30px;
+
+}
+ .button {
+    background-color: #F8BE1A;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+padding: 18px 24px;
+   cursor: pointer;
+   font-weight: bold;
+/*   position: relative;
+*/   left: 60px;
+   border-radius: 4px;
+}
+.header6 h1{
+	 text-transform: uppercase;
+	 font-size: 35px;
+	 color: white;
+}
+.header6 i{
+	 text-transform: uppercase;
+	 font-size: 12px;
+	 color: white;
+    margin-left: 10px;
+    margin-top:5px;
+}
+.header7 h1{
+	text-align: center;
+}
+.header7{
+	margin-top: 100px;
+}
+.header7>div{
+	margin-left: 33%;
+}
+/*div {
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    text-align: justify;
+}*/
+.header6{
+	margin-top: 100px;
+
+}
+.header7>.col8{
+	background: white;
+	padding: 40px;
+	height: 250px;
+}
+.header7>.col8>.row>button{
+	padding: 18px 100px;
+	text-align: center;
+}
+.header7 h1{
+	    margin-bottom: 30px;
+	       font-weight: bold;
+
+}
+.header7 i{
+		    font-size: 14px;
+
+}
+.middle{
+	text-align: center;
+}
+/*sonTapilan*/
+#sonTapilan{
+	width: 100%;
+/*	height: 500px;
+*/	background: #F5F5F5;
+}
+.middle2{
+	margin-bottom: 10px;
+}
+.middle h1{
+    margin:  0;
+    padding: 30px 0; 
+}
+.middle3 {
+	margin-top: 30px;
+}
+.middle4 button {
+	 background-color: white;
+    border: 1px solid red ;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+	padding: 15px 60px;
+   cursor: pointer;
+   font-weight: bold;
+   position: relative;
+   left: 60px;
+   	border-radius: 4px;
+  	margin:0 auto;
+  	margin: 20px 0;
+}
+.middle4 button :hover{
+
+}
+/*.col31 img{
+	margin-top:80%; 
+	margin-left: 10px;
+}*/
+/*.col31>.col7 h1 p{
+	margin-top:45%; 
+}*/
+.middle h1{
+  font-weight: bold;
+   font-size: 25px;
+}
+#sonTapilan .col3{
+	margin-top: 15%;
+	margin-left: 20px;
+}
+#sonTapilan .col7{
+	margin-top: 15%;
+}
+.middle4{
+	text-align: center;
+}
+#sonTapilan .row p{
+	font-size: 11px;
+}
+#sonTapilan .row h1{
+	  font-weight: bold;
+
+}
+#axtariw{
+width: 100%;
+}
+#axtariw .wrapper{
+	border-bottom: 1px solid gray;
+	height: 400px;
+}
+#axtariw .row img{
+	margin:15% 35%;
+}
+#axtariw .row p{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+}
+#footer img{
+	width: 50%;
+	/*padding: 0;*/
+	/*margin-top: 40px;*/
+}
+
+#footer{
+	margin-top: 100px;
+}
+#footer ul{
+	float: right;
+}
+#footer ul li{
+	float: right;
+	margin-left: 5px;
+}
+/*#footer ul li i{
+	
+	color: yellow;
+}
+*/
+/*#yuxari .row p{
+	float: left;
+}*/
+#yuxari .header6 i{
+	
+	color: #FBC222;
+}
+#yuxari .header6 ul li{
+	
+	color: white;
+	margin-top: 20px;
+}
+
+#yuxari .col8{
+	
+	color:  #FBC222;
+}
+
+#yuxari .header7 ul li{
+	font-size: 12px;
+	color: black;
+	margin-top: 20px;
+}
+#yuxari .header7 i{
+	
+	color: #FBC222;
+}
+#yuxari .header7 ul li button{
+	  background-color: #F8BE1A;
+	  width: 100%;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+/*padding: 20px 70px;
+*/   cursor: pointer;
+   font-weight: bold;
+/*   position: relative;
+*/   left: 60px;
+   border-radius: 4px;
+   margin-top: 0 auto;
+
+	}
+}
+	#yuxari .header7 ul li select{
+		width: 100%;
+	}
+		.logo{
+		border-right: 1px solid white;
+}
+
+@media screen and (max-width: 800px) {
+  [class*="col31"]{
+      	width: 50%;
+      }
+      .button{
+      	width: 50%;
+      }
+        #yuxari{
+      background: #F25222;
+}
+#axtariw .col4{
+	width: 60%;
+}
+#yuxari .col3{
+      	width: 50%;
+      }
+      #yuxari .col6{
+	width: 60%;
+ }
+ #yuxari{
+ 	height: 1000px;
+ }
+  /*.button{
+ 	text-align: center;
+ }*/
+ }
+ @media (min-width: 800px) and (max-width: 1100px) {
+  [class*="col31"]{
+      	width: 40%;
+      }
+        #yuxari{
+      background: #F25222;
+
+}
+#yuxari .col3{
+      	width: 40%;
+      }
+#yuxari .col6{
+	width: 60%;
+ }
+ #yuxari{
+ 	height: 900px;
+ }
+ /*.button{
+ 	text-align: center;
+ }*/
+}
